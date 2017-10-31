@@ -10,7 +10,13 @@ Está pensado para combates de sumo, pero con más aplicaciones didácticas (fí
 
 [Montaje detallado](https://www.instructables.com/id/SimpleSumo-Educational-Fighting-Robots/)
 
+[Código](https://github.com/mechengineermike/SimpleSumo)
+
+### Complementos
+
 [Complemento para experimento de fisica (rozamiento)](https://www.thingiverse.com/thing:2583558)
+
+![fisica del sumo](https://cdn.instructables.com/F9R/DM45/J8F5V7RJ/F9RDM45J8F5V7RJ.MEDIUM.jpg)
 
 [Complementos](https://pinshape.com/search/designs?q=simplesumo)
 
