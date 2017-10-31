@@ -12,7 +12,9 @@ Está pensado para combates de sumo, pero con más aplicaciones didácticas (fí
 
 [Código](https://github.com/mechengineermike/SimpleSumo)
 
+
 ### Complementos
+
 
 [Complemento para experimento de fisica (rozamiento)](https://www.thingiverse.com/thing:2583558)
 
